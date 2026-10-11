@@ -1,0 +1,14 @@
+C:\Users\Pichau\AverageGrade\bin\Debug\net10.0\AverageGrade.exe
+C:\Users\Pichau\AverageGrade\bin\Debug\net10.0\AverageGrade.deps.json
+C:\Users\Pichau\AverageGrade\bin\Debug\net10.0\AverageGrade.runtimeconfig.json
+C:\Users\Pichau\AverageGrade\bin\Debug\net10.0\AverageGrade.dll
+C:\Users\Pichau\AverageGrade\bin\Debug\net10.0\AverageGrade.pdb
+C:\Users\Pichau\AverageGrade\obj\Debug\net10.0\AverageGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\AverageGrade\obj\Debug\net10.0\AverageGrade.AssemblyInfoInputs.cache
+C:\Users\Pichau\AverageGrade\obj\Debug\net10.0\AverageGrade.AssemblyInfo.cs
+C:\Users\Pichau\AverageGrade\obj\Debug\net10.0\AverageGrade.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\AverageGrade\obj\Debug\net10.0\AverageGrade.dll
+C:\Users\Pichau\AverageGrade\obj\Debug\net10.0\refint\AverageGrade.dll
+C:\Users\Pichau\AverageGrade\obj\Debug\net10.0\AverageGrade.pdb
+C:\Users\Pichau\AverageGrade\obj\Debug\net10.0\AverageGrade.genruntimeconfig.cache
+C:\Users\Pichau\AverageGrade\obj\Debug\net10.0\ref\AverageGrade.dll
